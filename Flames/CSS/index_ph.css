@@ -1,0 +1,78 @@
+/* CSS - MOBILE DEVICES */
+
+/* HTML ELEMENT REFERENCE */
+*{
+	padding:0px;
+	margin:0px;;
+}
+body,html{
+	height:100%;
+}
+h2{
+	font-family: 'Love Ya Like A Sister', cursive;
+	color:#ffffff;
+	display:inline-block;
+	margin:1%;
+	margin-top:10%;
+	font-size:300%;
+}
+input{
+	color:#ffffff;
+	display:block;
+	margin:5% auto;
+	width:50%;
+	padding:1%;
+	border:1px solid #ffffff;
+	color:#ffffff;
+	background-color:#000000;
+	text-align:center;
+	text-transform:uppercase;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-o-border-radius:20px;
+	-moz-border-radius:20px;
+	-ms-border-radius:20px;
+	outline:none;
+	font-family: 'Nunito', sans-serif;
+	font-size : 1.2rem;
+}
+button{
+	display:block;
+	margin:2% auto;
+	padding:1%;
+	background:#000000;
+	color:#ffffff;
+	border:1px solid #ffffff;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-o-border-radius:20px;
+	-moz-border-radius:20px;
+	-ms-border-radius:20px;
+	outline:none;
+}
+button:hover{
+	color:#000000;
+	background:#ffffff;
+}
+p{
+	color:#ffffff;
+	font-family: 'Nunito', sans-serif;
+	width:80%;
+	margin:0 auto;
+	font-size : 0.8rem;
+}
+
+
+/* HTML ID REFERENCE */
+#b{
+	background:#000000;
+	height:900px;
+	text-align:center;
+	background-size:cover;
+	background-position:center;
+}
+#output{
+	color:#ffffff;
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size: 2rem;
+}

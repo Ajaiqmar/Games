@@ -1,0 +1,99 @@
+/* CSS - IPAD / TABLET DEVICES */
+
+
+/* HTML ELEMENT REFERENCE */
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family: 'Love Ya Like A Sister', cursive;
+	color:#ffffff;
+}
+h2{
+	display:inline-block;
+	margin:0.625rem;
+	margin-top:2rem;
+	color:#ffffff;
+	font-size:4rem;
+}
+input{
+	color:#ffffff;
+	display:block;
+	margin:2rem auto;
+	padding:0.9375rem;
+	width:70%;
+	outline:none;
+	text-align:center;
+	border:1px solid #ffffff;
+	color:#ffffff;
+	text-transform:uppercase;
+	border-radius:1.25rem;
+	-webkit-border-radius:1.25rem;
+	-o-border-radius:1.25rem;
+	-moz-border-radius:1.25rem;
+	-ms-border-radius:1.25rem;
+	background-color:#000000;
+	font-family: 'Nunito', sans-serif;
+	font-size : 1.2rem;
+}
+p{
+	font-family: 'Nunito', sans-serif;
+	font-size : 0.8rem;
+}
+
+
+/* HTML ID REFERENCE */
+#submit{
+	display:block;
+	margin: 1.25rem auto 2.5rem;
+	padding:0.625rem;
+	color:#ffffff;
+	background-color:#000000;
+	border:0.0625rem solid #ffffff;
+	outline:none;
+	cursor:pointer;
+	font-family: 'Nunito', sans-serif;
+	border-radius:1.25rem;
+	-webkit-border-radius:1.25rem;
+	-o-border-radius:1.25rem;
+	-moz-border-radius:1.25rem;
+	-ms-border-radius:1.25rem;
+}
+#refresh{
+	display:block;
+	margin:-1.5625rem auto;
+	padding:0.625rem;
+	color:#ffffff;
+	background-color:#000000;
+	border:0.0625rem solid #ffffff;
+	outline:none;
+	cursor:pointer;
+	font-family: 'Nunito', sans-serif;
+	border-radius:1.25rem;
+	-webkit-border-radius:1.25rem;
+	-o-border-radius:1.25rem;
+	-moz-border-radius:1.25rem;
+	-ms-border-radius:1.25rem;
+}
+#submit:hover,#refresh:hover{
+	color:#000000;
+	background-color:#ffffff;
+}
+#b{
+	background:#000000;
+	transform:translate(23.4375rem,11.25rem);
+	height:34.375rem;
+	width:25rem;
+	text-align:center;
+	padding:0.625rem;
+	border-radius:1.25rem;
+	-webkit-border-radius:1.25rem;
+	-o-border-radius:1.25rem;
+	-moz-border-radius:1.25rem;
+	-ms-border-radius:1.25rem;
+}
+#output{
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size: 2rem;
+}
